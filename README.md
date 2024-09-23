@@ -94,5 +94,3 @@ The Generated Mask
 ![image](https://github.com/Manty2503/VineNet/assets/119813195/49556087-0350-4b58-940b-57ab949b80ba)
 
 
-
-# VineNet
